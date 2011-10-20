@@ -93,7 +93,7 @@ public class SuRequestReceiver extends BroadcastReceiver {
     
     private void sendResult(Context context, Intent intent, boolean allow) {
         LocalSocket socket = new LocalSocket();
-        OutputStream os = null;;
+        OutputStream os = null;
         try {
             socket.connect(new LocalSocketAddress(
                     intent.getStringExtra(EXTRA_SOCKET), LocalSocketAddress.Namespace.FILESYSTEM));
