@@ -108,7 +108,14 @@
   <string name="pref_bin_version_title_loading">su-binary version wird geladen</string>
   <string name="pref_bin_version_title">Su binary v%s</string>
   <string name="pref_bin_version_summary">Drücken, um auf Updates zu prüfen</string>
-  <string name="pref_changelog_summary">Changelog anzeigen</string>
+  <string name="pref_outdated_notification_title">Veraltete Version melden</string>
+  <string name="pref_outdated_notification_summary_on">Zeige Benachrichtigung, wenn das su-binary veraltet ist.</string>
+  <string name="pref_outdated_notification_summary_off">Keine Benachrichtigung trotz veralteter Version des su-binary zeigen.</string>
+  <string name="pref_advanced_prompt_title">Erweiterte Anfrage</string>
+  <string name="pref_advanced_prompt_summary_on">Warnungen bei su-Anfragen anzeigen</string>
+  <string name="pref_advanced_prompt_summary_off">Keine Warnungen bei su-Anfragen anzeigen</string>
+  <string name="pref_changelog_title">Neue Funktionen (Changelog)</string>
+  <string name="pref_changelog_summary">Änderungshistorie anzeigen</string>
   <string name="pref_get_elite_summary">Kaufen Sie Elite, um alle Optionen freizuschalten</string>
   <string name="updater_new_su_found">Neue Version von su binary gefunden. Jetzt aktualisieren?</string>
   <string name="updater_current_installed">Aktuelle Version bereits installiert. Keine Aktion erforderlich.</string>
@@ -161,7 +168,6 @@
   <string name="malicious_app_uid">teilt UID mit Superuser</string>
   <string name="malicious_app_respond">erwartet Erlaubnis für die Anfrage</string>
   <string name="malicious_app_write">erwartet Erlaubnis, um Berechtigunsanbieter zu schreiben</string>
-  <string name="changelog_title">Neue Funktionen</string>
   <plurals name="pref_logs_deleted">
     <item quantity="one">Ein Protokoll gelöscht</item>
     <item quantity="other">%1$d Protokolle gelöscht</item>
@@ -174,4 +180,7 @@
     <item quantity="one">Das folgende Paket wurde als bösartig eingestuft:</item>
     <item quantity="other">Die folgenden Pakete wurden als bösartig eingestuft:</item>
   </plurals>
+
+  <string name="root_disabled_title">Root-Zugriff erlauben?</string>
+  <string name="root_disabled_summary">Root-Zugriff ist durch eine Systemeinstellung zur Zeit für alle Anwendungen deaktiviert. Soll Root-Zugriff erlaubt werden?</string>
 </resources>
