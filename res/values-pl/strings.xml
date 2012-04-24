@@ -150,8 +150,8 @@
   <string name="updater_remount_ro_failed">Nie udało się ponownie zamontować system w trybie tylko do odczytu, należy powtórnie uruchomić, aby zakończyć aktualizację</string>
   <string name="updater_find_su_failed">Nie udało się znaleźć obecnie zainstalowanego SU. Aktualizacja nie może być kontynuowana</string>
   <string name="updater_bad_install_location">SU jest aktualnie zainstalowane w katalogu /sbin. Ta aplikacja nie jest w stanie go aktualizować. Proszę znaleźć nowy ROM dla swojego urządzenia. </string>
-  <string name="notification_text_allow">%s uzyskał uprawnienia Superuser</string>
-  <string name="notification_text_deny">%s nie uzyskał uprawnień Superuser</string>
+  <string name="notification_text_allow">%s uzyskał uprawnienia SU</string>
+  <string name="notification_text_deny">%s nie uzyskał uprawnień SU</string>
   <string name="notif_outdated_ticker">Twoje SU jest nieaktualne</string>
   <string name="notif_outdated_title">SU jest przestarzałe</string>
   <string name="notif_outdated_text">Kliknij, aby uaktualnić SU</string>
@@ -172,6 +172,15 @@
   <string name="malicious_app_write">prosi o pozwolenie zapisu uprawnień dostawcy</string>
   <string name="changelog_full_title">Lista zmian</string>
   <string name="changelog_title">Co nowego</string>
+  
+  <string name="request_message">%1$s żąda dostępu Superusera. \n\nOstrzeżenie: Jeśli nie zapoczątkowałeś tej akcji lub nie rozumiesz tego żądania, dobrym pomysłem jest odmówienie.</string>
+  <string name="request_more_info">Dotknij, aby uzyskać więcej info</string>
+  <string name="request_less_info">Dotknij, aby uzyskać mniej info</string>
+  <string name="request_app_name">Aplikacja</string>
+  
+  <string name="root_disabled_title">Włączyć dostęp roota?</string>
+  <string name="root_disabled_summary">Dostęp roota jest obecnie wyłączony dla wszystkich aplikacji poprzez ustawienie. Czy chcesz go włączyć?</string>
+  
   <plurals name="pref_logs_deleted">
     <item quantity="one">Jeden dziennik został usunięty</item>
     <item quantity="other">%1$d dzienniki usunięte</item>
