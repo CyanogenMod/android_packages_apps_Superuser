@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011 Adam Shanks (ChainsDD)
+  
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  
+    http://www.apache.org/licenses/LICENSE-2.0
+  
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ئالاھىدە ئىشلەتكۈچى</string>
+    <string name="app_name_request">ئالاھىدە ئىشلەتكۈچى ئىلتىماسى</string>
+
+    <string name="description_home">باش بەت</string>
+    <string name="description_log">خاتىرە</string>
+    <string name="description_preferences">مايىللىق</string>
+    <string name="description_extras">ئارتۇقچە</string>
+    
+    <string name="page_label_apps">ئەپلەر</string>
+    <string name="page_label_log">خاتىرە</string>
+    
+    <string name="menu_extras">ئارتۇقچە</string>
+    <string name="menu_preferences">مايىللىق</string>
+    <string name="menu_clear">تازىلا</string>
+    <string name="menu_clear_log">خاتىرە تازىلا</string>
+
+    <string name="permgrouplab_superuser">ئالاھىدە ئىشلەتكۈچى ھوقۇقى</string>
+    <string name="permgroupdesc_superuser">ئالاھىدە ئىشلەتكۈچىگە مۇناسىۋەتلىك ھوقۇقلار</string>
+    <string name="permlab_respond">ئالاھىدە ئىشلەتكۈچى ئىلتىماس ئىنكاسى</string>
+    <string name="permdesc_respond">ئەپنىڭ ئالاھىدە ئىشلەتكۈچى ئىلتىماسىغا ئىنكاس قايتۇرۇشىغا يول قويىدۇ</string>
+    <string name="permlab_provider_read">ئالاھىدە ئىشلەتكۈچى سانلىق مەلۇماتىنى ئوقۇ</string>
+    <string name="permdesc_provider_read">ئەپنىڭ ئالاھىدە ئىشلەتكۈچى  مەزمۇن تەمىنلىگۈچىنىڭ سانلىق مەلۇماتلىرىنى ئوقۇشىغا يول قويىدۇ</string>
+    <string name="permlab_provider_write">ئالاھىدە ئىشلەتكۈچى سانلىق مەلۇماتىنى ياز</string>
+    <string name="permdesc_provider_write">ئەپنىڭ ئالاھىدە ئىشلەتكۈچى  مەزمۇن تەمىنلىگۈچىنىڭ سانلىق مەلۇماتلىرىنى يېزىشىغا يول قويىدۇ</string>
+
+    <string name="recent_activity">يېقىنقى پائالىيەت</string>
+
+    <string name="yes">ھەئە</string>
+    <string name="no">ياق</string>
+    <string name="ok">جەزملە</string>
+    <string name="loading">يۈكلەۋاتىدۇ</string>
+    
+    <string name="allow">يول قوي</string>
+    <string name="cancel">ۋاز كەچ</string>
+    <string name="deny">رەت قىل</string>
+    <string name="set">تەڭشەك</string>
+    <string name="remember">ئەستە تۇت</string>
+    <string name="remember_disabled">ئالاھىدە ئىشلەتكۈچى ھوقۇقى يېڭىلىنىشتىن ئىلگىرىكى ھالەتنى ئەستە ساقلايدۇ</string>
+    <string name="request">%2$s (uid: %3$d) سۈپىتىدە %1$s</string>
+    <string name="unknown">يوچۇن ئات</string>
+
+    <string name="allowed">يول قويۇلغان</string>
+    <string name="denied">رەت قىلىنغان</string>
+    <string name="created">قۇرغان</string>
+    <string name="toggled">ئالماشقان</string>
+
+    <string name="empty_apps">تىزىمدا ئەپ يوق</string>
+    <string name="empty_logs">خاتىرە ئۇچۇرى يوق</string>
+    <string name="log_count">كۆرسەتكىنى %d تۈر</string>
+    <string name="log_last_accessed">ئاخىرقى زىيارەت: %1$s، %2$s</string>
+    <string name="log_last_allowed">ئاخىرقى يول قويغان ۋاقىت: %1$s، %2$s</string>
+    <string name="log_last_denied">ئاخىرقى رەت قىلىنغان ۋاقتى: %1$s، %2$s</string>
+    <string name="log_last_toggled">ئاخىرقى ئالماشقان ۋاقتى: %1$s، %2$s</string>
+    <string name="log_created_on">قۇرغان ۋاقتى: %1$s، %2$s</string>
+
+    <string name="detail_package">بوغچا</string>
+    <string name="detail_app_uid">ئەپ UID</string>
+    <string name="detail_request">ئىلتىماس UID</string>
+    <string name="detail_command">بۇيرۇق</string>
+    <string name="detail_status">ھالەت</string>
+
+    <string name="request_message">تۆۋەندىكى ئەپ ئالاھىدە ئىشلەتكۈچى ھوقۇق زىيارىتىنى ئىلتىماس قىلدى:</string>
+    <string name="request_app_name">ئەپ</string>
+
+    <string name="pref_title">مايىللىق</string>
+    <string name="pref_category_security">بىخەتەرلىك</string>
+    <string name="pref_pin_title">PIN ئىشلەت</string>
+    <string name="pref_pin_summary_on">ھوقۇق ئىلتىماس قىلغاندا PIN زۆرۈر</string>
+    <string name="pref_pin_summary_off">ھوقۇق ئىلتىماس قىلغاندا PIN زۆرۈر ئەمەس</string>
+    <string name="pref_change_pin_title">PIN ئۆزگەرت</string>
+    <string name="pref_timeout_title">زىيارەت ۋاقىت ھالقىدى</string>
+    <string name="pref_timeout_summary">ئەستە تۇتمىغان ئەپ ئەسكەرتكەندىن كېيىن %1$d سېكۇنت زىيارەت ۋاقتى بار</string>
+    <string name="pref_automatic_action_title">ئاپتوماتىك ئىنكاس</string>
+    <string name="pref_automatic_action_summary">ئالاھىدە ئىشلەتكۈچى بىر تەرەپ قىلىشتىكى يېڭى ئىلتىماسنىڭ ئۇسۇلىنى تەڭشەيدۇ</string>
+    <string name="pref_ghost_mode_title">ئەرۋاھ ھالىتى</string>
+    <string name="pref_ghost_mode_summary_on">بىخەتەرلىك نومۇرىنى بۇراپ ئالاھىدە ئىشلەتكۈچىنى قوزغىتىدۇ</string>
+    <string name="pref_ghost_mode_summary_off">ئەرۋاھ ھالىتى چەكلەندى</string>
+    <string name="pref_ghost_mode_message">ئەرۋاھ ھالىتى قوزغىغۇچتىكى ئالاھىدە ئىشلەتكۈچى سىنبەلگىسىنى يوشۇرىدۇ، سىنبەلگە قوزغىغۇچ كېيىنكى قېتىم قوزغالغاندا يوشۇرۇلىدۇ. سىنبەلگە يوشۇرۇلغان ھامان، سىز نومۇر بۇرىغۇچتا بىخەتەرلىك كودىنى كىرگۈزۈپ ئاندىن ئالاھىدە ئىشلەتكۈچىنى زىيارەت قىلالايسىز. كۆڭۈلدىكى بىخەتەرلىك كودى *#*#787378737#*#* (*#*#superuser#*#*)، ئەمما بۇ سانلارنى ئۆزگەرتكىلى بولىدۇ.\n\nدىققەت، ئەگەر ئۈسكۈنىڭىزدە نومۇر بۇرىغۇچ بولمىسا، ئەرۋاھ ھالىتىنى قوزغاتماڭ.\n\nئەرۋاھ ھالىتىنى قوزغىتامسىز؟</string>
+    <string name="pref_ghost_mode_enabled_message">ئەرۋاھ ھالىتى قوزغىتىلدى. قوزغىغۇچىڭىز ياكى تېلېفونىڭىزنى قايتا قوزغىتىپ ئۆزگىرىشنى كۆرۈڭ.</string>
+    <string name="pref_secret_code_title">بىخەتەرلىك كودى</string>
+    <string name="pref_secret_code_summary">بىخەتەرلىك كودى *#*#%1$s#*#*</string>
+    <string name="pref_category_applist_title">ئەپلەر تىزىمى</string>
+    <string name="pref_show_status_icons_title">ھالەت سىنبەلگىلەرنى كۆرسەت</string>
+    <string name="pref_show_status_icons_summary_on">ھەر بىر ئەپنىڭ ھالەت سىنبەلگىسىنى كۆرسەت</string>
+    <string name="pref_show_status_icons_summary_off">ھەر بىر ئەپنىڭ ھالىتىنىڭ سىنبەلگىسىنى كۆرسەتمە</string>
+    <string name="pref_status_icon_type_title">ھالەت سىنبەلگە تىپى</string>
+    <string name="pref_status_icon_type_summary">كۆرسىتىدىغان ھالەت سىنبەلگە ئۇسلۇبى</string>
+    <string name="pref_applist_show_log_data_title">خاتىرە سانلىق مەلۇماتىنى كۆرسەت</string>
+    <string name="pref_applist_show_log_data_summary_on">خاتىرە سانلىق مەلۇماتىنى ئەپ تىزىمىدا كۆرسەت</string>
+    <string name="pref_applist_show_log_data_summary_off">خاتىرە سانلىق مەلۇماتىنى ئەپ تىزىمىدا كۆرسەتمە</string>
+    <string name="pref_category_log_title">خاتىرە</string>
+    <string name="pref_enable_logging_title">خاتىرە قوزغات</string>
+    <string name="pref_enable_logging_summary_on">ھوقۇق قۇرۇش ۋە زىيارەت خاتىرىلىنىدۇ</string>
+    <string name="pref_enable_logging_summary_off">ھوقۇق قۇرۇش ۋە زىيارەت خاتىرىلەنمەيدۇ</string>
+    <string name="pref_delete_old_logs_title">كونا خاتىرە تۈرلەرنى ئۆچۈر</string>
+    <string name="pref_delete_old_logs_summary_on">چەككە يەتكەندە كونا خاتىرە تۈرلەرنى ئۆچۈرىدۇ </string>
+    <string name="pref_delete_old_logs_summary_off">چەككە يەتكەندە كونا خاتىرە تۈرلەرنى ئۆچۈرمەيدۇ </string>
+    <string name="pref_log_entry_limit_title">خاتىرە سان چەكلىمىسى</string>
+    <string name="pref_log_entry_limit_summary">%1$d خاتىرە تۈرى</string>
+    <string name="pref_log_entries_to_save">ساقلايدىغان خاتىرە تۈرىنىڭ سانىنى تەڭشەيدۇ</string>
+    <string name="pref_24_hour_title">24 سائەت پىچىمىنى ئىشلەت</string>
+    <string name="pref_24_hour_summary_on">خاتىرە ۋاقتىنى 24 سائەت پىچىمىدا كۆرسىتىدۇ</string>
+    <string name="pref_24_hour_summary_off">خاتىرە ۋاقتىنى 12 سائەت پىچىمىدا كۆرسىتىدۇ</string>
+    <string name="pref_show_seconds_title">سېكۇنتنى كۆرسەت</string>
+    <string name="pref_show_seconds_summary_on">خاتىرە ۋاقتىدا سېكۇنت بار</string>
+    <string name="pref_show_seconds_summary_off">خاتىرە ۋاقتىدا سېكۇنت يوق</string>
+    <string name="pref_date_format_title">چېسلا پىچىنى تاللاڭ</string>
+    <string name="pref_date_format_summary">ھەممە خاتىرىلەردە كۆرسىتىشكە ئىشلىتىدىغان چېسلا پىچىمى</string>
+    <string name="pref_clear_log_title">خاتىرە تازىلا</string>
+    <string name="pref_clearing_log_title">خاتىرە تازىلاۋاتىدۇ</string>
+    <string name="pref_clearing_log_summary">سەل كۈتۈڭ</string>
+    <string name="pref_category_notification_title">ئۇقتۇرۇشلار</string>
+    <string name="pref_notifications_title">ئۇقتۇرۇشلار</string>
+    <string name="pref_notifications_summary_on">ئالاھىدە ھوقۇققا ئېرىشكەندە ئۇقتۇرۇشنى كۆرسەت</string>
+    <string name="pref_notifications_summary_off">ئالاھىدە ھوقۇققا ئېرىشكەندە ئۇقتۇرۇشنى كۆرسەتمە</string>
+    <string name="pref_notifications_type_title">ئۇقتۇرۇش تىپى</string>
+    <string name="pref_notifications_type_summary">ئەپ ئەڭ ئالىي ھوقۇققا ئېرىشكەندە كۆرسىتىدىغان ئۇقتۇرۇش تىپى</string>
+    <string name="pref_toast_location_title">ئەسكەرتىش ئورنى</string>
+    <string name="pref_toast_location_summary">ئۇقتۇرۇشنىڭ ئېكراندا كۆرۈنىدىغان جايى</string>
+    <string name="pref_category_nfc_title">NFC</string>
+    <string name="pref_use_allow_tag_title">NFC بەتكۈچ ئىشلىتىشكە يول قوي</string>
+    <string name="pref_use_allow_tag_summary_on">PIN كىرگۈزۈڭ ياكى بەتكۈچ تەكشۈرۈشكە يول قوي</string>
+    <string name="pref_use_allow_tag_summary_off">PIN كىرگۈزۈشكىلا يول قوي</string>
+    <string name="pref_write_allow_tag_title">يېڭى خەتكۈچ ياز</string>
+    <string name="pref_write_allow_tag_summary">يول قويىدىغان يېڭى خەتكۈچ يازىدۇ</string>
+    <string name="pref_category_backup_restore_title">زاپاسلا/ئەسلىگە كەلتۈر</string>
+    <string name="pref_backup_title">ئەپ/مايىللىق زاپاسلا</string>
+    <string name="backup_complete">زاپاسنى sd كارتىغا يازىدۇ</string>
+    <string name="pref_restore_title">ئەپ/مايىللىق ئەسلىگە كەلتۈر</string>
+    <plurals name="restore_complete">
+        <item quantity="one">بىر ئەپ ۋە مايىللىق ئەسلىگە كەلتۈرۈلدى</item>
+        <item quantity="other">%1$d ئەپ ۋە مايىللىق ئەسلىگە كەلتۈرۈلدى</item>
+    </plurals>
+    <string name="pref_category_info_title">ئالاھىدە ئىشلەتكۈچى ئۇچۇرى</string>
+    <string name="pref_version_title">ئالاھىدە ئىشلەتكۈچى v%1$s (%2$d)</string>
+    <string name="pref_version_summary">ساندان نەشرى %s</string>
+    <string name="pref_bin_version_title_loading">ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەت نەشرىنى يۈكلەۋاتىدۇ</string>
+    <string name="pref_bin_version_title">ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەت v%s</string>
+    <string name="pref_bin_version_summary">چېكىلسە يېڭىلاشنى تەكشۈرىدۇ</string>
+    <string name="pref_outdated_notification_title">ۋاقتى ئۆتكەن ئىككىلىك ھۆججەت ئۇقتۇرۇشى</string>
+    <string name="pref_outdated_notification_summary_on">ئىككىلىك ھۆججەتنىڭ ۋاقتى ئۆتكەندە ئۇقتۇرۇشنى كۆرسەت</string>
+    <string name="pref_outdated_notification_summary_off">ئىككىلىك ھۆججەتنىڭ ۋاقتى ئۆتكەندە ئۇقتۇرۇشنى كۆرسەتمە</string>
+    <string name="pref_changelog_title">ئۆزگىرىش خاتىرىسى</string>
+    <string name="pref_changelog_summary">ئۆزگىرىش خاتىرىسىنى كۆرسەت</string>
+    <string name="pref_get_elite_title">Elite نەشرىگە يۆتكەل!</string>
+    <string name="pref_get_elite_summary">Elite نەشرىنى سېتىۋېلىپ ھەممە تاللانمىلارنىڭ قۇلۇپىنى ئاچىدۇ</string>
+    <plurals name="pref_logs_deleted">
+        <item quantity="one">بىر خاتىرە ئۆچۈرۈلدى</item>
+        <item quantity="other">%1$d خاتىرە ئۆچۈرۈلدى</item>
+    </plurals>
+
+    <string name="updater_title">ئىككىلىك ھۆججەت يېڭىلىغۇچ</string>
+    <string name="updater_new_su_found">يېڭى نەشرىدىكى ئالاھىدە ئىشلەتكۈچى  نەشرى بايقالدى. يېڭىلامسىز؟</string>
+    <string name="updater_current_installed">ئەڭ يېڭى نەشرى ئورنىتىلغان. مەشغۇلات قىلىش زۆرۈرىيىتى يوق.</string>
+    <string name="updater_update">يېڭىلا</string>
+    <string name="updater_update_anyway">يېڭىلاۋەر</string>
+    <string name="updater_cool">ھېچقىسى يوق، قايتا ئىجرا قىل</string>
+    <string name="updater_working">ئىشلەۋاتىدۇ…</string>
+    <string name="updater_manifest_legacy">http://downloads.androidsu.com/superuser/su/manifest-legacy.json</string>
+    <string name="updater_manifest">http://downloads.androidsu.com/superuser/su/manifest.json</string>
+    <string name="updater_ok">غەلبىلىك!</string>
+    <string name="updater_fail">مەغلۇپ!</string>
+    <string name="updater_update_failed">يېڭىلىيالمىدى. قايتا سىنامدۇ؟</string>
+    <string name="updater_no_conn">manifest نى چۈشۈرەلمىدى. ئىنتېرنېت باغلىنىشىنى تەكشۈرۈڭ</string>
+    <string name="updater_try_again">قايتا سىنا</string>
+    <string name="updater_su_updated">ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەت مۇۋەپپەقىيەتلىك يېڭىلاندى</string>
+    <string name="updater_step_download_manifest">manifest نى چۈشۈرۈۋاتىدۇ…\u0020</string>
+    <string name="updater_step_parse_manifest">manifest نى يېشىۋاتىدۇ…\u0020</string>
+    <string name="updater_step_latest_version">ئاخىرقى نەشرى =\u0020</string>
+    <string name="updater_step_check_installed_version">ئورناتقان نەشرىنى تەكشۈرۈۋاتىدۇ =\u0020</string>
+    <string name="updater_step_fix_db">manifest نى ئوڭشاۋاتىدۇ…\u0020</string>
+    <string name="updater_step_download_busybox">ئىختىيارى busybox نى چۈشۈرۈۋاتىدۇ…\u0020</string>
+    <string name="updater_step_check_md5sum">md5sum نى تەكشۈرۈۋاتىدۇ …\u0020</string>
+    <string name="updater_step_check_installed_path">نۆۋەتتىكى ئورناتقان يولىنى تەكشۈرۈۋاتىدۇ…\u0020</string>
+    <string name="updater_step_download_su">يېڭى ئىككىلىك ھۆججەتنى چۈشۈرۈۋاتىدۇ…\u0020</string>
+    <string name="updater_step_get_root">root ھوقۇقىغا ئېرىشىۋاتىدۇ…\u0020</string>
+    <string name="updater_step_remount_rw">/system غا rw سۈپىتىدە قايتا ئېگەرلەۋاتىدۇ…\u0020</string>
+    <string name="updater_step_cp">ئالاھىدە ئىشلەتكۈچىنى /system غا كۆچۈرۈۋاتىدۇ…\u0020</string>
+    <string name="updater_step_chmod">ئالاھىدە ئىشلەتكۈچى ھۆججەت ھالىتىنى 06755 غا ئۆزگەرتىۋاتىدۇ…\u0020</string>
+    <string name="updater_step_mv">ئالىي ئىشلەتكۈچىنى ئاخىرقى ئورۇنغا يۆتكەۋاتىدۇ…\u0020</string>
+    <string name="updater_step_remount_ro">/system غا rw سۈپىتىدە قايتا ئېگەرلەۋاتىدۇ…\u0020</string>
+    <string name="updater_step_clean_up">تازىلاۋاتىدۇ…\u0020</string>
+    <string name="updater_remount_ro_failed">system نى ئوقۇشقىلا بولىدىغان ھالەتتە ئېگەرلىيەلمىدى، قايتا قوزغىتىپ يېڭىلاشنى تاماملاڭ</string>
+    <string name="updater_find_su_failed">نۆۋەتتە ئورنىتىلغان ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەتنى تاپالمىدى. يېڭىلاشنى داۋاملاشتۇرالمايدۇ</string>
+    <string name="updater_bad_install_location">ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەت نۆۋەتتە /sbin غا ئورنىتىلغان، بۇ يېڭىلاش پىروگراممىسى يېڭىلاشنى تاماملىيالمايدۇ.ئۈسكۈنىڭىزگە يېڭى ROM ئىزدەڭ.</string>
+    <string name="updater_bad_install_location_explained">بۇ يېڭىلىغۇچ ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججىتىڭىزنى يېڭىلىيالمايدۇ چۈنكى ئۇ /sbin غا ئورنىتىلغان. بۇ يېڭىلىغۇچتىكى خاتالىق ئەمەس، بۇ ROM ياكى يادرولۇق ئىجادكارنىڭ خاتالىقى بولۇشى مۇمكىن. سىز ئالاھىدە ئىشلەتكۈچىڭىزنى ۋاقتى ئۆتكەن ئىككىلىك ھۆججەت بىلەن بىللە ئىشلىتىشنى داۋاملاشتۇرالايسىز.</string>
+    <string name="updater_failed_remount">بۇ يېڭىلىغۇچ سىستېما رايونى S-ON بولغان تېلېفوندىكى ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەتنى يېڭىلىيالمايدۇ. سىز ئالاھىدە ئىشلەتكۈچىڭىزنى ۋاقتى ئۆتكەن ئىككىلىك ھۆججەت بىلەن بىللە ئىشلىتىشنى داۋاملاشتۇرالايسىز ياكى ئالاھىدە ئىشلەتكۈچىنى ROM باشقۇرغۇچتا يېڭىلىيالايسىز.</string>
+
+    <string name="notification_text_allow">%s ئالاھىدە ئىشلەتكۈچى ھوقۇقىغا ئېرىشتى</string>
+    <string name="notification_text_deny">%s ئالاھىدە ئىشلەتكۈچى ھوقۇقىنى رەت قىلدى</string>
+
+    <string name="notif_outdated_ticker">ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججىتىڭىزنىڭ ۋاقتى ئۆتكەن</string>
+    <string name="notif_outdated_title">ئىككىلىك ھۆججەتنىڭ ۋاقتى ئۆتكەن</string>
+    <string name="notif_outdated_text">چېكىلسە ئالاھىدە ئىشلەتكۈچى ئىككىلىك ھۆججەتنى يېڭىلايدۇ</string>
+    
+    <string name="pin_enter_pin">PIN نومۇرىنى كىرگۈزۈڭ</string>
+    <string name="pin_new_pin">يېڭى PIN نى كىرگۈزۈڭ</string>
+    <string name="pin_confirm_pin">PIN جەزملەڭ</string>
+    <string name="pin_mismatch">PIN ماس كەلمىدى، قايتا سىناڭ</string>
+    <plurals name="pin_incorrect_try">
+        <item quantity="one">ئاخىرقى پۇرسەت</item>
+        <item quantity="other">خاتا - يەنە %d قېتىم سىنىيالايسىز</item>
+    </plurals>
+    <string name="pin_enter_secret_code">بىخەتەرلىك كودىنى كىرگۈزۈڭ</string>
+    
+    <string name="nfc_write_tag">يازىدىغان خەتكۈچنى تەكشۈر</string>
+
+    <string name="malicious_apps_title">ئاگاھلاندۇرۇش</string>
+    <plurals name="malicious_apps_message1">
+    	<item quantity="one">تۆۋەندىكى بوغچىنى زەھەرخەندە پىروگرامما دەپ دەپ تاپتى:</item>
+    	<item quantity="other">تۆۋەندىكى بوغچىلارنى زەھەرخەندە پىروگرامما دەپ دەپ تاپتى:</item>
+    </plurals>
+    <string name="malicious_apps_message2">ئەپلەرنى زەھەرخەندە پىروگرامما دەپ بەلگە قويۇلغان چۈنكى ئۇلار ئۆز ئىچىگە ئالغان ئېلېمېنتلار root ھوقۇقىغا ئېرىشىشكە ئۇرۇنىۋاتىدۇ. ئۇلارنى تېزلىكتە ئۆچۈرۈۋېتىشىڭىزنى كۈچلۈك تەۋسىيە قىلىمىز.</string>
+    <string name="malicious_apps_uninstall">ئۆچۈر</string>
+    <string name="malicious_apps_ignore">پەرۋا قىلما</string>
+    <string name="malicious_app_notification_ticker">يوشۇرۇن زەھەرخەندە ئەپ بايقالدى</string>
+    <string name="malicious_app_notification_text">%s زەھەرخەندە ئەپ بولۇشى مۇمكىن. چېكىلسە ئۆچۈرىدۇ.</string>
+    <string name="malicious_app_uid">ئالاھىدە ئىشلەتكۈچىنىڭ UID نى ھەمبەھىرلەيدۇ</string>
+    <string name="malicious_app_respond">ئىنكاس ھوقۇق ئىلتىماسى</string>
+    <string name="malicious_app_write">ھوقۇق تەمىنلىگۈچىگە يازىدىغان ھوقۇقنى ئىلتىماس قىلىدۇ</string>
+    
+    <string name="changelog_full_title">ئۆزگىرىش خاتىرىسى</string>
+    <string name="changelog_title">يېڭى مەزمۇن</string>
+</resources>
