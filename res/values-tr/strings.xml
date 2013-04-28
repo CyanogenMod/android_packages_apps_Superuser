@@ -22,8 +22,8 @@
     <string name="description_log">İşlem Kaydı</string>
     <string name="description_preferences">Tercihler</string>
     <string name="description_extras">Ekstralar</string>
-    <string name="page_label_apps">uygulamalar</string>
-    <string name="page_label_log">işlem kaydı</string>
+    <string name="page_label_apps">Uygulamalar</string>
+    <string name="page_label_log">İşlem kaydı</string>
     <string name="menu_extras">Ekstralar</string>
     <string name="menu_preferences">Tercihler</string>
     <string name="menu_clear">Temizle</string>
@@ -33,7 +33,7 @@
     <string name="menu_options">Ayarlar</string>
     <string name="permgrouplab_superuser">Superuser İzinleri</string>
     <string name="permgroupdesc_superuser">Superuser\'a bağlı izinler</string>
-    <string name="permlab_respond">superuser isteklerine cevap ver</string>
+    <string name="permlab_respond">Superuser isteklerine cevap ver</string>
     <string name="permdesc_respond">Uygulamanın superuser isteklerine cevap vermesine izin verir.</string>
     <string name="permlab_provider_read">Superuser Verisi Oku</string>
     <string name="permdesc_provider_read">Uygulamanın Superuser\'ın ContentProvider\'daki verilerini okumasına izin verir</string>
@@ -43,7 +43,7 @@
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>
     <string name="ok">Tamam</string>
-    <string name="loading">yükleniyor</string>
+    <string name="loading">Yükleniyor</string>
     <string name="allow">İzin ver</string>
     <string name="cancel">İptal</string>
     <string name="deny">Reddet</string>
@@ -69,8 +69,8 @@
     <string name="detail_command">Komut</string>
     <string name="detail_status">Durum</string>
     <string name="use_global_settings">Genel ayarları kullan</string>
-    <string name="notifications_enabled">&#32;&#32;Uyarılar etkin</string>
-    <string name="logging_enabled">&#32;&#32;İşlem kaydı etkin</string>
+    <string name="notifications_enabled">Uyarılar etkin</string>
+    <string name="logging_enabled">İşlem kaydı etkin</string>
     <string name="request_message">%1$s Superuser erişimi istiyor.\n\nUyarı: Eğer bu olayı siz başlatmadıysanız, veya bu erişimin ne olduğunu anlamadıysanız, genellikle reddetmek iyi bir seçenektir.</string>
     <string name="request_more_info">Daha fazla bilgi için dokunun</string>
     <string name="request_less_info">Daha az bilgi için dokunun</string>
@@ -134,7 +134,7 @@
     <string name="updater_update_failed">Güncelleme başarısız. Tekrar deneyin?</string>
     <string name="updater_no_conn">Bildiri indirilemedi. İnternet bağlantısını kontrol edin</string>
     <string name="updater_try_again">Tekrar deneyin</string>
-    <string name="updater_su_updated">su dosyası başarıyla güncelleştirildi</string>
+    <string name="updater_su_updated">su dosyası başarıyla güncellendi</string>
     <string name="updater_step_latest_version">Son sürüm =&#32;</string>
     <string name="updater_step_check_installed_version">Yüklü versiyon =&#32;</string>
     <string name="updater_remount_ro_failed">Sistem salt okunur olarak ayarlanamadı, güncellemeyi tamamlamak için yeniden başlatın</string>
